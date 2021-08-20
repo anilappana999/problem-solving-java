@@ -17,7 +17,7 @@ public class GradingStudents {
 	      }
 	      else{
 	          grades1.add(num1);
-	      }
+	      } 
 	         
 	    }
 	return grades1;
